@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1726657726811",
+    "nome": "Jose Zildemar",
+    "curso": "ES",
+    "ira": "5"
+  },
+  {
+    "id": "1726657749635",
+    "nome": "Gabriel Porto",
+    "curso": "SI",
+    "ira": "6"
+  },
+  {
+    "id": "1726657764669",
+    "nome": "Marcelo Augusto",
+    "curso": "SI",
+    "ira": "7"
+  },
+  {
+    "id": "1726657783328",
+    "nome": "Paulo Gleidson",
+    "curso": "SI",
+    "ira": "8"
+  },
+  {
+    "id": "1726657809776",
+    "nome": "Bruno Vinicius",
+    "curso": "ES",
+    "ira": "7.5"
+  },
+  {
+    "id": "1726657830736",
+    "nome": "Bruno Tito",
+    "curso": "ES",
+    "ira": "9"
+  },
+  {
+    "id": "1726657863322",
+    "nome": "Sandro Barbosa",
+    "curso": "ES",
+    "ira": "9.5"
+  },
+  {
+    "id": "1726657897406",
+    "nome": "Jefferson de Carvalho",
+    "curso": "SI",
+    "ira": "4.5"
+  },
+  {
+    "id": "1726657949471",
+    "nome": "Regis Piris",
+    "curso": "CC",
+    "ira": "3.8"
+  },
+  {
+    "id": "1726657996948",
+    "nome": "Thiago Werley",
+    "curso": "EC",
+    "ira": "8.2"
+  },
+  {
+    "id": "1726658021401",
+    "nome": "Paulo Armando",
+    "curso": "DD",
+    "ira": "10"
+  }
+]
